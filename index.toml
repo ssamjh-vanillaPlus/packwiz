@@ -26,7 +26,7 @@ hash = "ae3ac32c7479293516b5e52b3fa2f75f850a19d5e00db836bb7238d3d3650a22"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "3465cab8f16bd613a4d2949c4889e53faf72ecf2fdfb498e2f4a63d4da174c56"
+hash = "e49dcc3e5623b47d201dbb3774ced48ade27cae9023ef5dc2229ff9351cdbc75"
 
 [[files]]
 file = "mods/antighost.pw.toml"
