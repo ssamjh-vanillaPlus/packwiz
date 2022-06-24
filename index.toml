@@ -5,24 +5,28 @@ file = "_config.yml"
 hash = "485e7574c4a5fcb8433e32d7bcaea2a0f0be2db482b06bba1abc7b8d6957221e"
 
 [[files]]
-file = "config/dynamicfps.toml"
+file = "config/yosbr/config/dynamicfps.toml"
 hash = "1cba40748219add171324904e2c4f19020ad6a03ecb3d24d45212e9f14475f6c"
 
 [[files]]
-file = "config/lambdynlights.toml"
-hash = "2d4fd57f6ca3f857b3073001734e755b434920ba0c39f67ca46edb855b2396bf"
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "422472dc3d1783a706d23bddaa775bca5970392505c575b143195cccd57b3982"
 
 [[files]]
-file = "config/sodium-extra-options.json"
+file = "config/yosbr/config/sodium-extra-options.json"
 hash = "b2e81ade6286aadd3a7e3f0a32a7c122ea665fd3ff74c9d563f31f3d2a3e71d6"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "config/yosbr/config/sodium-options.json"
 hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
 
 [[files]]
-file = "config/zoomify.json"
-hash = "ff15aef4bcaa4582a716cb3e570910a3439f1f1742c3250b910576c0ec5c82fd"
+file = "config/yosbr/config/zoomify.json"
+hash = "ae3ac32c7479293516b5e52b3fa2f75f850a19d5e00db836bb7238d3d3650a22"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "3465cab8f16bd613a4d2949c4889e53faf72ecf2fdfb498e2f4a63d4da174c56"
 
 [[files]]
 file = "mods/antighost.pw.toml"
@@ -216,4 +220,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b15ce22ac44dbd6c64a455f19309d79007c8553ce908bf5bdd9e3fec08ed1e52"
+hash = "3465cab8f16bd613a4d2949c4889e53faf72ecf2fdfb498e2f4a63d4da174c56"
