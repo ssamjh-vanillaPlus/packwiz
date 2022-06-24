@@ -1,6 +1,6 @@
 name = "Performant Pack"
 author = "ssamjh"
-version = "1.19"
+version = "1.19.x"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "d717cac1aea8767fc29989bd498ce9d877f7c836d24215aeb733803f8b15a902"
 
 [versions]
 minecraft = "1.19"
-quilt = "0.17.1-beta.1"
+quilt = "0.17.0"
