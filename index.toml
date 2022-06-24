@@ -227,7 +227,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "c6c963c8c9389d864664aabfd259e9b3909c274b56b2ff1477dac551216b3a28"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "3465cab8f16bd613a4d2949c4889e53faf72ecf2fdfb498e2f4a63d4da174c56"
