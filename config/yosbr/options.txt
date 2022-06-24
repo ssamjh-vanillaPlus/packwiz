@@ -3,7 +3,6 @@ chatLinksPrompt:false
 enableVsync:false
 directionalAudio:true
 fullscreen:true
-darkMojangStudiosBackground:true
 fov:0.5
 renderDistance:16
 simulationDistance:8
@@ -18,3 +17,12 @@ rawMouseInput:true
 skipMultiplayerWarning:true
 allowServerListing:false
 tutorialStep:none
+key_key.sneak:key.keyboard.left.control
+key_key.sprint:key.keyboard.left.shift
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+soundCategory_master:0.30298012
+soundCategory_music:0.0
+soundCategory_ambient:0.20070423
+modelPart_cape:false
+advancedItemTooltips:true
