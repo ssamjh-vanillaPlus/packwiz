@@ -24,5 +24,4 @@ key_key.loadToolbarActivator:key.keyboard.unknown
 soundCategory_master:0.30298012
 soundCategory_music:0.0
 soundCategory_ambient:0.20070423
-modelPart_cape:false
 advancedItemTooltips:true
