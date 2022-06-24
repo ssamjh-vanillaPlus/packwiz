@@ -16,7 +16,6 @@ attackIndicator:1
 mouseSensitivity:0.16901408450704225
 rawMouseInput:true
 skipMultiplayerWarning:true
-allowServerListing:false
 tutorialStep:none
 key_key.sneak:key.keyboard.left.control
 key_key.sprint:key.keyboard.left.shift
