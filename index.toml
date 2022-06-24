@@ -9,6 +9,10 @@ file = "config/yosbr/config/dynamicfps.toml"
 hash = "1cba40748219add171324904e2c4f19020ad6a03ecb3d24d45212e9f14475f6c"
 
 [[files]]
+file = "config/yosbr/config/lambdabettergrass.toml"
+hash = "cf7c3b60dc1615f94a0c292242bef1b0c1953b495438ea1c9f5895a7169743fd"
+
+[[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "422472dc3d1783a706d23bddaa775bca5970392505c575b143195cccd57b3982"
 
@@ -26,7 +30,7 @@ hash = "ae3ac32c7479293516b5e52b3fa2f75f850a19d5e00db836bb7238d3d3650a22"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e49dcc3e5623b47d201dbb3774ced48ade27cae9023ef5dc2229ff9351cdbc75"
+hash = "64736dfe35a3fd4a97b435a82a14d81005e50510e911b0456b1e8b332829c2fc"
 
 [[files]]
 file = "mods/antighost.pw.toml"
