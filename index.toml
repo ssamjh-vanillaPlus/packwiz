@@ -83,6 +83,11 @@ hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "ba99850c71a06482ef88cc18d8273c511e523c20fc96b1ce8cefd9adc98705fd"
 metafile = true
@@ -180,11 +185,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "fc3e78eb9cb93282c6f62291d6390c950c4eb2ace7e25b83382b5f4b43cd969b"
 metafile = true
 
 [[files]]
