@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-chroma-for-fabric.pw.toml"
-hash = "c5aed03f2fff1bc659f22a51590f70946474e038d878f2ff6f7ff41a954a9f8c"
+hash = "5beda5d260dd367f7319a2f0b08ebb9369a7815dd036c79adced4ae204d9ce2c"
 metafile = true
 
 [[files]]
