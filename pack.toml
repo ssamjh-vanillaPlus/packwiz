@@ -1,13 +1,13 @@
 name = "Performant Pack"
 author = "ssamjh"
-version = "1.19.x"
+version = "1.18.x"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c8a18f4fc773f16e19dd592078705f6833a987c2fa36d494ce62d16d6f8d986a"
+hash = "c0862032865e0c87310d37afb88f68b8b2bd2482099600dd886cde6563596204"
 
 [versions]
-minecraft = "1.19"
+minecraft = "1.18.2"
 quilt = "0.17.0"
