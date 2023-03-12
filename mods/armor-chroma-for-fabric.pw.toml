@@ -1,13 +1,13 @@
 name = "Armor Chroma for Fabric"
-filename = "armorchroma-1.2.2.jar"
+filename = "armorchroma-1.2.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a4993a61db81f354193bd4703e89adb8f9aae440"
+hash = "246b02ad917aac2e6a395d6f2d3591f52d767af5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3801452
+file-id = 4118401
 project-id = 550644
